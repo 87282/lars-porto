@@ -8,21 +8,21 @@ const  Skills = ()=> {
   <input type="checkbox" id="faq-1"/>
   <h1><label for="faq-1"><img src="/assets/nextjs.png" width={"40px"} alt="" />   Next.JS</label></h1>
   <div class="p">
-    <p>This a very very simple accordion.</p>
+    <p>Next.js is een framework gemaakt door Javascript, zelf ben ik hiermee best bekend mee omdat ik veel oopdrachten hiermee maak zoals deze portfolio. </p>
   </div>
 </div>
 <div class="c">
   <input type="checkbox" id="faq-2"/>
   <h1><label for="faq-2"><img src="/assets/reactjs.png" width={"40px"} alt="" /> React.JS</label></h1>
   <div class="p">
-    <p>Yes with pure CSS and HTML.</p>
+    <p>Raect.js is een framework van Javascript, zelf heb ik hier wel wat verstand dat komnt omdat ik soms uitmzelf hierin verdiept hebt en een paar projecten mee heb gemaakt.</p>
   </div>
 </div>
 <div class="c">
   <input type="checkbox" id="faq-3"/>
   <h1><label for="faq-3"><img src="/assets/tailwind.png" width={"40px"} alt="" />Tailwindcss</label></h1>
   <div class="p">
-    <p>I was inpired by an article on css-tricks. <a href="https://css-tricks.com/the-checkbox-hack/">link to article</a>
+    <p>Tailwindcss ben ik heel erg bekend mee omdat ik dit gebruik voor elk project dat ik maak omdat het heetl gemakkelijk is en heel fijn werkt.
     </p>
   </div>
 </div>

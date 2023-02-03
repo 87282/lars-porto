@@ -255,3 +255,12 @@ input:checked ~ h1 ~ div.p{
     transform: translatey(-16.5vmin);
   }
 }
+
+ol{
+  list-style: numbers;
+  background-color: rgb(0, 19, 48);
+  color: white;
+  padding: 0.5rem 2rem;
+  border-radius: 0.34rem;
+  font-weight: 600;
+}
