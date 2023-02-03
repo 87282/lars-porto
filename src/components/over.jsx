@@ -17,8 +17,7 @@ export default function Over() {
     <li>~ git push -u origin main<span className='text-green-600'> //hier push je het//</span>
 </li></ol><br/>
 <p>Na deze commands staat het in je Github repository vervolgens ging ik naar Vercel en had ik het project geimport vervolgens klikte ik op deploy en kwam die online te staan </p>
-</div><article class="md:col-span-1"><div class="w-full aspect-square image-mask-1 relative overflow-hidden"></div><br/>
-</article>
+</div><br/>
 </article>
             </section>
         </div>
