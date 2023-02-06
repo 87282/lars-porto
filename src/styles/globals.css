@@ -258,9 +258,14 @@ input:checked ~ h1 ~ div.p{
 
 ol{
   list-style: numbers;
+  margin:  2rem;
   background-color: rgb(0, 19, 48);
   color: white;
   padding: 0.5rem 2rem;
   border-radius: 0.34rem;
   font-weight: 600;
+}
+
+.diva{
+  transform: translateZ(0px); opacity: 1;
 }
