@@ -24,9 +24,20 @@ function contenten() {
                                         <div class=""><h4 class="p-4 text-white font-semibold">Huizen te koop site</h4></div></a></article>
                                         
                                         <article class="bg-darker rounded-md overflow-hidden shadow-lg bg-black">
-                                            <a href="https://chrisvanlier.nl/content/portfolio-1-0">
-                                                <img src="/assets/portfolio.png" alt="placeholder image" class="w-full h-100  object-cover object-center"/>
+                                            <a href="https://lars-porto-azj3.vercel.app/">
+                                                <img src="/assets/portfolio.png" alt="placeholder image" class="w-full h-64  object-cover object-center"/>
                                                 <div class=""><h4 class="p-4 text-white font-semibold">Portfolio versie 1 - Lars Vermeulen</h4></div></a></article>
+                                                
+                                                <article class="bg-darker rounded-md overflow-hidden shadow-lg bg-black">
+                                            <a href="">
+                                                <img src="/assets/webshop.png" alt="placeholder image" class="w-full h-64  object-cover object-center"/>
+                                                <div class=""><h4 class="p-4 text-white font-semibold">Webshop ( C# )</h4></div></a></article>
+                                                
+                                                <article class="bg-darker rounded-md overflow-hidden shadow-lg bg-black">
+                                            <a href="https://87282.stu.sd-lab.nl/opdracht/login.php">
+                                                <img src="/assets/crud.png" alt="placeholder image" class="w-full h-64  object-cover object-center"/>
+                                                <div class=""><h4 class="p-4 text-white font-semibold">Crud applicatie (PHP / PHPMyAdmin)</h4></div></a></article>
+                                                
                                                 
                                                 </section>
 
