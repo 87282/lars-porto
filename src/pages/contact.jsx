@@ -18,8 +18,8 @@ function Contact() {
     <div class="social-links flex flex-row gap-4">
         <a href="">
             <img src="/assets/phone2.png" class="w-12 h-12" viewBox="0 0 24 24"></img></a> <p className='text-white'>U kunt me bellen via 0638272089</p>
-            <a href="https://www.instagram.com/larsvermeulen._/">
-                <img alt="github-social" src="/assets/instagram.png" class="w-12 aspect-square h-12 object-cover" /></a><p className='text-white'>Of via instagram ( klik op het icoon om naar mijn insta te gaan )</p></div>
+            <a href="mailto:larsvermeulenxx@gmail.com">
+                <img alt="github-social" src="/assets/email.png" class="w-12 aspect-square h-12 object-cover bg-white" /></a><p className='text-white'>Of via mijn mail ( klik op het icoon om mij te mailenn )</p></div>
                 </div>
                     <article class="md:col-span-1"><div class="w-full aspect-square image-mask-1 relative overflow-hidden"><div class="image-container" data-v-2f9302fb=""><img alt="layer_1" class="absolute top-0 left-0 z-[3] hover:scale-105 ease-in duration-800" data-layer="1" data-speed="70" loading="lazy" src="/assets/port.jpeg" /></div></div><br/>
 <br/>
