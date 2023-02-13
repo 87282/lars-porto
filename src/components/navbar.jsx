@@ -1,9 +1,15 @@
 import React from 'react'
 import Link from 'next/link'
+import { motion } from "framer-motion";
+
 
 const Navbar = () => {
   return (
       <>
+      <motion.div
+  animate={{ x: 20 }}
+  transition={{ type: "spring", stiffness: 100 }}
+>
 <nav class="nav flex flex-wrap items-center justify-between px-4">
   <div class="flex flex-no-shrink items-center mr-6 py-3 text-grey-darkest">
     <span class="font-semibold text-xl tracking-tight">Lars Vermeulen</span>
@@ -28,7 +34,9 @@ const Navbar = () => {
     </li>
     
   </ul>
-</nav></>
+</nav>
+</motion.div>
+</>
   )
 
 }

@@ -1,3 +1,5 @@
+import { motion } from "framer-motion"
+
 const  Skills = ()=> {
   return (
     <>
@@ -7,7 +9,11 @@ const  Skills = ()=> {
 
   <article class="grid md:grid-cols-2 gap-2 mt-14">
     <article class="p-2 flex flex-col gap-3">
+
+
+
         <h2 class="text-sky-400 font-bold text-3xl">Frameworks</h2>
+   
         <div class="diva" 
       >
             <div class="bg-white h-16 relative flex items-center gap-6 justify-start px-4 rounded-md"><img alt="Laravel"
@@ -76,6 +82,8 @@ const  Skills = ()=> {
                     class="text-primary text-4xl absolute right-4 font-bold cursor-pointer select-none transition-all duration-300"></span>
             </div>
         </div>
+
+        
     </article>
 </article>
 

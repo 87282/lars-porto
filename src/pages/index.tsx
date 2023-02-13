@@ -6,13 +6,16 @@ import  Projects  from "../components/projects";
 import Over from "../components/over";
 import Skills from "../components/skills";
 import Header from "../components/header";
+import  motion  from "framer-motion";
+
 
 const Home: NextPage = () => {
   return (
   <>
     <Navbar/>  
- 
+  
     <Header/>
+    
   <Over/>
     
       <Skills/>
