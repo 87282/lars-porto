@@ -20,9 +20,9 @@ export default function Projects() {
                     <a href="">
                         <img src='/assets/webshop.png' alt="placeholder image" class="w-full h-64 aspect-square object-cover object-center"></img>
                         <div class=""><h4 class="p-4 text-white bg-black font-semibold text-lg">Webshop (C# / Bootstrap)</h4></div></a></div></article>
-                <article class="w-full min-h-[15rem] text-color-1"><div class="bg-darker w-full h-full rounded-md"><a href="https://87282.stu.sd-lab.nl/exfrontend/">
-                    <img src="/assets/Examen.png" alt="placeholder image" class="w-full h-64 aspect-square object-cover object-center"></img>
-                    <div class=""><h4 class="p-4 text-white bg-black font-semibold text-lg">Examen Front-End</h4></div></a></div></article>
+                <article class="w-full min-h-[15rem] text-color-1"><div class="bg-darker w-full h-full rounded-md"><a href="https://ayizo.vercel.app/">
+                    <img src="/assets/ayizo3.png" alt="placeholder image" class="w-full h-64 aspect-square object-cover object-center"></img>
+                    <div class=""><h4 class="p-4 text-white bg-black font-semibold text-lg">Ayizo Webdesign</h4></div></a></div></article>
                </div>
                <a class="col-span-4 justify-self-center w-48" href='/contenten'><button type="submit" class="inline-flex items-center px-4 py-2 bg-sky-400 border border-transparent rounded-md font-semibold text-md text-white uppercase tracking-widest hover:bg-blue-700 focus:bg-blue-700 active:bg-blue-900 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2 transition ease-in-out duration-150 justify-center"> Zie meer </button></a>
                </section>
